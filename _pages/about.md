@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Student in Agent Explainability at Universitat Politecnica de Catalunya and Barcelona Supercomputing Center<a href='#'>Affiliations</a>.
+subtitle: PhD Student in Agent Explainability at <a href='https://www.upc.edu/en'>Universitat Politecnica de Catalunya</a> and <a href='https://www.bsc.es/'>Barcelona Supercomputing Center</a>.
 
 profile:
   align: right
