@@ -8,3 +8,4 @@ nav_order: 6
 ---
 
 Teaching assistant at Universitat Politecnica de Catalunya.
+{% include courses.liquid %}
